@@ -21,5 +21,5 @@ your project.
 Credits: 
 --------
 
-- This is based on Mojo's Maven Plugin for Weblogic: 
-- http://mojo.codehaus.org/weblogic-maven-plugin/installation.html
+- BEA Weblogic is property of ORACLE: http://www.oracle.com/index.html.
+- This is based on Mojo's Maven Plugin for Weblogic: http://mojo.codehaus.org/weblogic-maven-plugin/installation.html
