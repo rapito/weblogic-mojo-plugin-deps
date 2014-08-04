@@ -1,4 +1,4 @@
-Mojos-Simple-WMP
+Mojo's Simple Weblogic Maven Plugin
 ================
 
 #Summary
